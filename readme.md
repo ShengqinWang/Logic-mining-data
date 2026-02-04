@@ -1,4 +1,4 @@
-a total of 20 publicly available datasets All datasets were selected from two reputable and widely used machine learning platforms: the UCI Machine Learning Repository (https://archive.ics.uci.edu/datasets) and Kaggle (https://www.kaggle.com/datasets).
+All datasets were selected from two reputable and widely used machine learning platforms: the UCI Machine Learning Repository (https://archive.ics.uci.edu/datasets) and Kaggle (https://www.kaggle.com/datasets).
 # Dataset Download Links
 
 The download links corresponding to each dataset are systematically organized in the table below.
